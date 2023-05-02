@@ -1,6 +1,4 @@
 # LogicLogistic
-A car's make is the brand of the vehicle, while model refers to the name of a car product and sometimes a range of products.
----
 
 ##ProblemObjectives: This dataset contains information about used cars and give prediction on car prices.
 
